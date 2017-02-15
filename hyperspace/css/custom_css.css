@@ -1,0 +1,19 @@
+
+
+#contents{
+	margin-top:  50px;
+	margin-left: 400px;
+	/*max-width: 400px;
+	min-width: 200px;*/
+	float: left;/*
+	background-color: #163780;*/
+	/*color: #FFF;
+	font-weight: bold;
+	padding: 10px;
+	box-shadow: 0px 2px 33px 5px rgba(0,0,0,0.75);*/
+}
+
+.UserName{
+	font-weight: bold;
+	color: #782727;
+}
